@@ -1,0 +1,6 @@
+require_relative './and_specification.rb'
+require_relative './abstract_specification.rb'
+require_relative './plant_production_specification.rb'
+require_relative './plant_feature_specification.rb'
+require_relative './angiosperms_specification.rb'
+require_relative './fruit_specification.rb'
